@@ -25,7 +25,7 @@ You can use the laptop of the Lab or your personal laptop (it must able to conne
 To test the Google Colab Environment:
 - go to https://colab.research.google.com/ (log-in to google if requested)
 - go to File-Open Notebook and select GitHub 
-- in the github url type: https://github.com/pal-dev-labs and click on the lens(log-in to github if requested)
+- in the github url type: https://github.com/pal-dev-labs and click on the lens (log-in to github if requested)
 - in the Repository field choose "Python for economic applications 2024-2025"
 - click on TestNotebook.ipynb
 - click on the cells with code and run the cell (click on the right arrow in the left of the cell)

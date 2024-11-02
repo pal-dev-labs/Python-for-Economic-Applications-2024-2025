@@ -16,11 +16,11 @@ Location: Department of Economics and Finance
 
 # Requirements
 
-**GOOGLE COLAB**:
-The coding activities will be performed in the Google Colab Environment (https://colab.research.google.com/) that is an environment already configured with a Jupyter Notebook.
+**GOOGLE COLAB**:  
+The coding activities will be performed in the Google Colab Environment (https://colab.research.google.com/) that is an environment already configured with a Jupyter Notebook.  
 **To access the environment you will need a Google account and a Github account. Bring with you both UID and pwd.**
 
-You can use the laptop of the Lab or your personal laptop (able to connect to internet)
+You can use the laptop of the Lab or your personal laptop (it must able to connect to internet).  
 To test the Google Colab Environment:
 - go to https://colab.research.google.com/ (log-in to google if requested)
 - go to File-Open Notebook and select GitHub 
@@ -29,7 +29,7 @@ To test the Google Colab Environment:
 - click on the cells with code and run the cell (click on the right arrow in the left of the cell)
 - you should plot a pie-chart
 
-**ANACONDA NAVIGATOR**
+**ANACONDA NAVIGATOR**:  
 If you prefer, instead of google colab env, you can install the the **Anaconda Navigator** suite on your laptop (downloadable from the website https://anaconda.org/anaconda/anaconda-navigator) and keep all your file locally on your pc.
 
 After the installation, launch the application and open Jupyter Notebook. 

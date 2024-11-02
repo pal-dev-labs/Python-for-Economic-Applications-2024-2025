@@ -18,7 +18,8 @@ Location: Department of Economics and Finance
 
 **GOOGLE COLAB**:  
 The coding activities will be performed in the Google Colab Environment (https://colab.research.google.com/) that is an environment already configured with a Jupyter Notebook.  
-**To access the environment you will need a Google account and a Github account. Bring with you both UID and pwd.**
+
+**To access the environment you will need a Google account and a Github account. (Remember to bring with you both UID and pwd).**
 
 You can use the laptop of the Lab or your personal laptop (it must able to connect to internet).  
 To test the Google Colab Environment:
@@ -33,7 +34,7 @@ To test the Google Colab Environment:
 If you prefer, instead of google colab env, you can install the the **Anaconda Navigator** suite on your laptop (downloadable from the website https://anaconda.org/anaconda/anaconda-navigator) and keep all your file locally on your pc.
 
 After the installation, launch the application and open Jupyter Notebook. 
-Download the file TestNotebook.ipynb from this web site https://github.com/pal-dev-labs/Python-for-Economic-Applications-2024-2025?tab=readme-ov-file
+Download the file TestNotebook.ipynb from this web site (see above)
 and load it in the notebook.
 Run the cells to check that everything is ok (you should plot a pie-chart).
 

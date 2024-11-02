@@ -8,32 +8,34 @@
 
 Teacher: Prof. Giandomenico Palumbo
 
-Course starting date: Nov 2024
+Course starting date: 08 Nov 2024
 
 Course ending date:  Dec 2024
 
-Location: lab Tbd 
+Location: Department of Economics and Finance
 
 # Requirements
-A laptop connected to internet
 
-Ways of work (at your choice):
+**GOOGLE COLAB**:
+The coding activities will be performed in the Google Colab Environment (https://colab.research.google.com/) that is an environment already configured with a Jupyter Notebook.
+**To access the environment you will need a Google account and a Github account. Bring with you both UID and pwd.**
 
-**LOCALLY** (all files will be in your laptop): 
-- Install the **Anaconda Navigator** suite on your laptop (downloadable from the website https://anaconda.org/anaconda/anaconda-navigator)
-- Install TensorFlow library https://www.tensorflow.org/install
-
-After the installation, launch the application and open Jupyter Notebook. Download the file TestNotebook.ipynb from this web site and load it in the notebook. Run the cells to check that everything is ok (you should plot a pie-chart and the message 2.13.0 (version of tensorflow)).
-If you click on CODE button above and select downolad ZIP, you can get a copy of this repository with all files, folders and subfolders.
-
-
-**GOOGLE COLAB**: (all files will be hosted in the google cloud but you will be able to download it locally):
-- with your laptop go directly to **Google Colab** (https://colab.research.google.com/) that is an environment already configured with a Jupyter Notebook. You will need a **Google account** and a **Github account**.
+You can use the laptop of the Lab or your personal laptop (able to connect to internet)
+To test the Google Colab Environment:
+- go to https://colab.research.google.com/ (log-in to google if requested)
 - go to File-Open Notebook and select GitHub 
-- in the github url type: pal-dev-labs/Python-for-Economic-Applications
+- in the github url type: pal-dev-labs/Python-for-Economic-Applications 2024-2025 (log-in to github if requested)
 - click on TestNotebook.ipynb
 - click on the cells with code and run the cell (click on the right arrow in the left of the cell)
-- you should plot a pie-chart and the message 2.13.0 (version of tensorflow)
+- you should plot a pie-chart
+
+**ANACONDA NAVIGATOR**
+If you prefer, instead of google colab env, you can install the the **Anaconda Navigator** suite on your laptop (downloadable from the website https://anaconda.org/anaconda/anaconda-navigator) and keep all your file locally on your pc.
+
+After the installation, launch the application and open Jupyter Notebook. 
+Download the file TestNotebook.ipynb from this web site https://github.com/pal-dev-labs/Python-for-Economic-Applications-2024-2025?tab=readme-ov-file
+and load it in the notebook.
+Run the cells to check that everything is ok (you should plot a pie-chart).
 
 # Course Description:
 
